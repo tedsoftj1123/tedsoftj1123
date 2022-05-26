@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Test text➕
 <!--
 **tedsoftj1123/tedsoftj1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=flat-square&logo=로고명&logoColor=로고색"/>
