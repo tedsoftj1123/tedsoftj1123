@@ -1,5 +1,5 @@
 
-<h1 align="center"><strong>LeeHaSung💎</strong></h1>
+<h1 align="center"><strong>LeeHaSung🔮</strong></h1>
 <h1 align="center">
  <p><a href="http://mazassumnida.wtf/api/mini/generate_badge?boj=tedsoftj1123">    <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tedsoftj1123"/></a></p>
  <a href="https://github.com/jikwan0327/github-readme-stats">
