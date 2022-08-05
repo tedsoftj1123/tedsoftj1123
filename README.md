@@ -1,4 +1,5 @@
-# AboutMe
+# AboutMe</br>
+I want to be an enjoying Developer
 <div align="left">
  <a href="https://github.com/jikwan0327/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=tedsoftj1123&bg_color=30,BDCCE6,6BE78D&title_color=fff&text_color=fff"/></a>
